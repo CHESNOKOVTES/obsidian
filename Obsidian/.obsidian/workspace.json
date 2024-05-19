@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c90201f2b66ea50",
+        "id": "f35c345fc77a417f",
         "type": "tabs",
         "children": [
           {
-            "id": "bead24555574a42a",
+            "id": "27966a8f5e2b9d8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Роберт Мартин - Чистая архитектура/Парадигма программирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Роберт Мартин - Чистая архитектура/Парадигма программирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Роберт Мартин - Чистая архитектура/Парадигма программирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Роберт Мартин - Чистая архитектура/Парадигма программирования.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bead24555574a42a",
+  "active": "27966a8f5e2b9d8d",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Роберт Мартин - Чистая архитектура/Парадигма программирования.md",
+    "Роберт Мартин - Чистая архитектура/Ценность программиста.md",
+    "Роберт Мартин - Чистая архитектура/Критерий качества архитектуры.md",
+    "Роберт Мартин - Чистая архитектура/Цель архитектуры программного обеспечения.md",
+    "Роберт Мартин - Чистая архитектура/Мера качества архитектуры и дизайна.md",
+    "Welcome.md",
+    "Роберт Мартин - Чистая архитектура"
   ]
 }
